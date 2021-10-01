@@ -1,3 +1,0 @@
-C:/Users/m_lai/Desktop/git/mlaina/competitive-programming/cmake-build-debug/CMakeFiles/competitive_programming.dir
-C:/Users/m_lai/Desktop/git/mlaina/competitive-programming/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/m_lai/Desktop/git/mlaina/competitive-programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
